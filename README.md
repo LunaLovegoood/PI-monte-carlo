@@ -1,8 +1,8 @@
 ﻿# Approximating value of Pi
-Approximating value of Pi using Monte Carlo method <br />
-Implemented in **Processing** <br />
+Approximating value of Pi using Monte Carlo method. <br />
+Implemented in **Processing**. <br />
 
-Sample of approximation <br />
+Sample of approximation: <br />
 ![Sample of approximation](sample.png)
 
 ---
